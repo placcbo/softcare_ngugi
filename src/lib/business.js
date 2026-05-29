@@ -1,11 +1,11 @@
 const BUSINESS = {
   name: "Softcare Solutions",
   tagline: "Professional Phone Repair & Genuine Parts in Nairobi CBD",
-  phone: "+254 700 123 456",
-  phoneRaw: "+254700123456",
-  whatsappRaw: "254700123456",
-  email: "hello@softcaresolutions.co.ke",
-  address: "Nairobi CBD, next to Comfort 5 Hotel",
+  phone: "+254 717 484 035",
+  phoneRaw: "+254717484035",
+  whatsappRaw: "254717484035",
+  email: "francisngugi033@gmail.com",
+  address: "Nairobi CBD, next to Comfort 5 Hotel_Gaborone Rd",
   mapsQuery: "Comfort+5+Hotel+Nairobi+CBD",
   hours: "Mon\u2013Sat \xB7 8:30am \u2013 7:00pm"
 };
